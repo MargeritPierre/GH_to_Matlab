@@ -12,4 +12,4 @@ In the examples of the repository, only the two components *UDP Sender* and *UDP
 A number of GH libraries implements the UDP protocol (ex. [Firefly](http://www.food4rhino.com/app/firefly)), but gHowl components have proven to be robust.
 
 ## JUDP for Matlab
-JUDP is a simple .m Matlab script wirtten by Kevin Barlett that implements UDP communication functions. It can be downloaded from the [MathWorks website](https://fr.mathworks.com/matlabcentral/fileexchange/24525-a-simple-udp-communications-application?focused=5148131&tab=function). It is included in this repository, as it has to be included in the MATALAB working directory in order to be called.
+JUDP is a simple .m Matlab script wirtten by Kevin Barlett that implements UDP communication functions. It can be downloaded from the [MathWorks website](https://fr.mathworks.com/matlabcentral/fileexchange/24525-a-simple-udp-communications-application?focused=5148131&tab=function). It is included in this repository, as it has to be included in the MATLAB working directory in order to be called.
