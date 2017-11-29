@@ -1,5 +1,5 @@
 # GH_to_Matlab
-This repository intends to share some scripts devoted to communication between Grasshopper3d and Matlab.
+This repository contains some scripts devoted to communication between Grasshopper3d and Matlab.
 It makes use of the *User Datagram Protocol* (UDP), which is easy to set-up and is implemented in many commercial softwares.
 
 # Prerequisites
